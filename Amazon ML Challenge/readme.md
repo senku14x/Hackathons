@@ -142,6 +142,3 @@ Vishesh Gupta • Ayush Sharma • Swapnil Saha • Souhardyo Dasgupta
 Electrical Engineering • Jadavpur University  
 Email: visheshguptaw14x@gmail.com • LinkedIn: [linkedin/vishesh](linkedin.com/in/vishesh-gupta-33927932b/) • 
 
----
-
-**If this helped your research, please star the repo!**
