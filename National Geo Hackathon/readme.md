@@ -2,6 +2,8 @@
 
 **AI-Driven Hydrological Modelling & Drainage Design from Drone Point Clouds**
 
+**National Finalist — National Geo-AI Hackathon, Techfest IIT Bombay 2025-26**
+
 > Submitted to the **National Geo-AI Hackathon** — Techfest IIT Bombay 2025-26  
 > In collaboration with the Ministry of Panchayati Raj (SVAMITVA Scheme)  
 > **Team:** The Error Guy | **Team ID:** Nati-250330 | **Theme 2:** DTM & Drainage Network Design
